@@ -10,9 +10,9 @@
     {
       "type": "SINGLE",
       "filters": [],
-      "versionCode": 1,
-      "versionName": "1.0",
-      "outputFile": "app-release.apk"
+      "versionCode": 118,
+      "versionName": "1.18",
+      "outputFile": "Hbox-v118-release.apk"
     }
   ]
 }
